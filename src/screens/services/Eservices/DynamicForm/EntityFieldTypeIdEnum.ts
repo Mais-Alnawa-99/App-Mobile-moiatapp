@@ -1,0 +1,23 @@
+export enum EntityFieldTypeEnum {
+  Text = 1,
+  Integer = 2,
+  Date = 3,
+  MultiSelect = 4,
+  Options = 5,
+  Information = 6,
+  Relation = 7,
+  Boolean = 8,
+  CustomFieldData = 9,
+  DateTime = 10,
+  TermsCondition = 11,
+  Location = 12,
+  BigText = 13,
+  Warning = 14,
+  CalculatedField = 15,
+  HtmlEditor = 16,
+  ManualPayments = 17,
+  TreeOptions = 18,
+  FollowUp=19,
+  Image=20,
+  StarRating=21
+}
