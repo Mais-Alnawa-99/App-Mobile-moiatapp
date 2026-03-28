@@ -1,0 +1,10 @@
+declare module '*.png';
+declare module '*.svg';
+declare module '*.jpeg';
+declare module '*.jpg';
+declare module '*.gif';
+declare module '*qs';
+declare module 'react-native-check-app-install';
+declare module 'react-native-base64';
+declare module 'color';
+declare module 'ymchat-react-native';
